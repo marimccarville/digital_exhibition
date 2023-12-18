@@ -20,12 +20,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Ernst Karl Winter - A Digital Exhibition   
+title: Ernst Karl Winter    
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a digital exhibition about Ernst Karl Winter
+tagline: a digital exhibition 
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "This site displays digitized archival materials about Ernst Karl Winter who was vice mayor of Vienna from 1934 to 1936."
+description: "Welcome! This site features Austrian author, sociologist, and politician Ernst Karl Winter. You will find images, texts, and pedagogical materials relating to his life and work."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Mari McCarville
 
