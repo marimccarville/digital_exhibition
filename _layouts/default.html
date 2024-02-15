@@ -9,7 +9,23 @@
     {% include collection-nav.html %}
     <main id="maincontent" role="main" class="flex-shrink-0">
     {{ content }}
-    </main>
+      <div class="container">
+        <div class="row">
+          <div id="disqus_thread"></div> 
+          <script> 
+            var disqus_config = function () { 
+              this.page.url = https://marimccarville.github.io/digital_exhibition/ 
+              this.page.identifier = https://marimccarville.github.io/digital_exhibition/about.html 
+              (function() { 
+              var d = document, s = d.createElement('script'); 
+              s.src = 'https://ernst-karl-winter-a-digital-exhibition.disqus.com/embed.js'; 
+              s.setAttribute('data-timestamp', +new Date()); 
+              (d.head || d.body).appendChild(s); 
+              })(); 
+          </script>
+        </div>
+      </div>
+        </main>
     {% include footer.html %}
     {% include foot.html %}
     {% include scroll-to-top.html %}
