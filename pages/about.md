@@ -48,8 +48,6 @@ def display_image_from_url(url):
             print("Failed to fetch image. Status code:", response.status_code)
     except Exception as e:
         print("An error occurred:", e)
-
-# Example usage
 url = "https://en.wikipedia.org/wiki/Creative_Commons_NonCommercial_license#/media/File:Cc_by-nc_icon.svg"  # Replace with the URL of the image you want to display
 display_image_from_url(url)
 
