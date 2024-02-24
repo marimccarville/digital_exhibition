@@ -23,6 +23,7 @@ You can learn more about Ernst Karl Winter at [Austria-Forum](https://austria-fo
 Terms of Use 
 
 All material on this site is licensed under [CC BY-NY 4.0](https://creativecommons.org/licenses/by-nc/4.0/) unless otherwise noted. 
-![Logo](https://en.wikipedia.org/wiki/Creative_Commons_NonCommercial_license#/media/File:Cc_by-nc_icon.svg)
+
+![](https://upload.wikimedia.org/wikipedia/commons/7/70/CC_BY-NC-ND.svg)
 
 Feel free to leave comments and questions at the bottom of each page. Please note that I may analyze your comments for future academic research projects. If I use your comments, I will anonymize them and redact any identifying information. By leaving a comment, you are agreeing to these conditions.   
