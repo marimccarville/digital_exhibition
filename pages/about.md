@@ -20,4 +20,10 @@ Ernst Karl Winter was known for his outspoken Catholicism, his self-published po
 
 You can learn more about Ernst Karl Winter at [Austria-Forum](https://austria-forum.org/af/AEIOU/Ernst_Karl_Winter_Forum_EN) or [NetInteractive Documents](https://www.nid-library.com/Home/Collections?search=Ernst+Karl+Winter&_filter=0). 
 
-I would love to read your questions and comments below. Please note that I may analyze your comments for future academic research projects. If I use your comments, I will anonymize them and redact any identifying information. By leaving a comment, you are agreeing to these conditions.   
+Terms of Use 
+
+All material on this site is licensed under [CC BY-NY 4.0](https://creativecommons.org/licenses/by-nc/4.0/) unless otherwise noted. 
+
+{% include feature/jumbotron.html objectid="https://en.wikipedia.org/wiki/Creative_Commons_NonCommercial_license#/media/File:Cc_by-nc_icon.svg" %}
+
+I would love to read your questions and comments at the bottom of each page. Please note that I may analyze your comments for future academic research projects. If I use your comments, I will anonymize them and redact any identifying information. By leaving a comment, you are agreeing to these conditions.   
