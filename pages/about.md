@@ -24,6 +24,33 @@ Terms of Use
 
 All material on this site is licensed under [CC BY-NY 4.0](https://creativecommons.org/licenses/by-nc/4.0/) unless otherwise noted. 
 
-{% include feature/image.html objectid="https://en.wikipedia.org/wiki/Creative_Commons_NonCommercial_license#/media/File:Cc_by-nc_icon.svg" %}
+def display_image_from_url(url):
+    try:
+        # Send a GET request to the URL to fetch the image
+        response = requests.get(url)
+        
+        # Check if the request was successful (status code 200)
+        if response.status_code == 200:
+            # Read the content of the response as binary data
+            img_data = response.content
+            
+            # Create a BytesIO object to wrap the binary data
+            img_buffer = BytesIO(img_data)
+            
+            # Open the image using PIL (Python Imaging Library)
+            img = Image.open(img_buffer)
+            
+            # Display the image using Matplotlib
+            plt.imshow(img)
+            plt.axis('off')  # Turn off axis
+            plt.show()
+        else:
+            print("Failed to fetch image. Status code:", response.status_code)
+    except Exception as e:
+        print("An error occurred:", e)
+
+# Example usage
+url = "https://en.wikipedia.org/wiki/Creative_Commons_NonCommercial_license#/media/File:Cc_by-nc_icon.svg"  # Replace with the URL of the image you want to display
+display_image_from_url(url)
 
 Feel free to leave comments and questions at the bottom of each page. Please note that I may analyze your comments for future academic research projects. If I use your comments, I will anonymize them and redact any identifying information. By leaving a comment, you are agreeing to these conditions.   
