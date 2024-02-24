@@ -26,4 +26,4 @@ Feel free to leave comments and questions at the bottom of each page. Please not
 
 All materials on this site are licensed under [CC BY-NY 4.0](https://creativecommons.org/licenses/by-nc/4.0/) unless otherwise noted. 
 
-![](https://en.wikipedia.org/wiki/Creative_Commons_NonCommercial_license#/media/File:Cc_by-nc_icon.svg)
+![](https://upload.wikimedia.org/wikipedia/commons/d/d3/Cc_by-nc_icon.svg)
