@@ -18,7 +18,7 @@ Ernst Karl Winter was known for his outspoken Catholicism, his self-published po
 
 Teaching Materials 
 
-I created 12 German language lessons about Ernst Karl Winter and his family. If you are a German teacher, click [here](https://drive.google.com/drive/folders/1kcDV2HTOv9J_epONyc2UIJPc6n5eMA38?usp=sharing) to access teaching materials for intermediate to advanced language learners. Please feel free to make a copy of the slides and modify them to fit your students needs. You may share and reuse the materials according to the [Creative Commons BY-NC 4.0 DEED](https://creativecommons.org/licenses/by-nc/4.0/) unless otherwise noted. You may not use the material for commerical purposes. If you would like to publish your students' projects on this site, please contact me at mari.mccarville@colorado.edu.
+I created 12 German language lessons about Ernst Karl Winter and his family. If you are a German teacher, click [here](https://drive.google.com/drive/folders/1qUFjtANOm1kX6L6RChtfLrqijrOSyv_f?usp=sharing) to access teaching materials for intermediate to advanced language learners. Please feel free to make a copy of the slides and modify them to fit your students needs. You may share and reuse the materials according to the [Creative Commons BY-NC 4.0 DEED](https://creativecommons.org/licenses/by-nc/4.0/) unless otherwise noted. You may not use the material for commerical purposes. If you would like to publish your students' projects on this site, please contact me at mari.mccarville@colorado.edu.
 
 Terms of Use 
 
