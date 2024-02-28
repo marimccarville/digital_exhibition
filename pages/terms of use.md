@@ -11,7 +11,7 @@ Users are permitted to leave comments on this site. Mari McCarville may analyze 
 
 Terms and Conditions
 
-All materials on this site are licensed under [CC BY-NY 4.0](https://creativecommons.org/licenses/by-nc/4.0/) unless otherwise noted. This means you are free to: 
+All materials on this site are licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) unless otherwise noted. This means you are free to: 
 
 Share — copy and redistribute the material in any medium or format
 
