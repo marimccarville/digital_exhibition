@@ -7,14 +7,12 @@ permalink: /termsofuse.html
 
 Terms and Conditions
 
-These general conditions define the permitted use of this site. It is understood that accessing this website implies acceptance of these conditions by the user.
+The following general conditions outline the permitted use of this site and the [teaching materials](https://drive.google.com/drive/folders/1qUFjtANOm1kX6L6RChtfLrqijrOSyv_f?usp=sharing) linked here. 
 
-All materials on this site are licensed under [CC BY-NY 4.0](https://creativecommons.org/licenses/by-nc/4.0/) unless otherwise noted. 
+All materials on this site are licensed under [CC BY-NY 4.0](https://creativecommons.org/licenses/by-nc/4.0/) unless otherwise noted. Many of the archival objects are used with permission. Please see rights statements for each object before copying, remixing, transforming, building upon, or redistributing them. 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/d/d3/Cc_by-nc_icon.svg)
 
 User's Comments
 
-Feel free to leave comments and questions at the bottom of each page. Please note that I may analyze your comments for future academic research projects. If I use your comments, I will anonymize them and redact any identifying information. By leaving a comment, you are agreeing to these conditions. 
-
-
+Users are permitted to leave comments on the About page or the Teaching Materials page. Mari McCarville may analyze comments for future academic research projects. If she uses the comments, she will anonymize them and redact any identifying information. By leaving a comment, users are agreeing to these conditions. 
