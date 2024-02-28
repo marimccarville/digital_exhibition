@@ -7,9 +7,22 @@ permalink: /termsofuse.html
 
 Terms and Conditions
 
-The following general conditions outline the permitted use of this site and the [teaching materials](https://drive.google.com/drive/folders/1qUFjtANOm1kX6L6RChtfLrqijrOSyv_f?usp=sharing) linked here. 
+All materials on this site are licensed under [CC BY-NY 4.0](https://creativecommons.org/licenses/by-nc/4.0/) unless otherwise noted. 
+This means you are free to: 
 
-All materials on this site are licensed under [CC BY-NY 4.0](https://creativecommons.org/licenses/by-nc/4.0/) unless otherwise noted. Many of the archival objects are used with permission. Please see rights statements for each object before copying, remixing, transforming, building upon, or redistributing them. 
+Share — copy and redistribute the material in any medium or format
+Adapt — remix, transform, and build upon the material
+
+The licensor cannot revoke these freedoms as long as you follow the license terms.
+
+Under the following terms:
+
+Attribution — You must give appropriate credit , provide a link to the license, and indicate if changes were made . You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+Non-Commercial — You may not use the material for commercial purposes .
+
+Notice: 
+
+Many of the archival objects are used with permission. Please see rights statements for each object before copying, remixing, transforming, building upon, or redistributing them. 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/d/d3/Cc_by-nc_icon.svg)
 
