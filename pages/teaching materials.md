@@ -1,6 +1,6 @@
 ---
 title: Teaching Materials
-layout: about
+layout: default
 permalink: /teachingmaterials.html
 ---
 
