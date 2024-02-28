@@ -5,9 +5,14 @@ permalink: /termsofuse.html
 ---
 # Terms of Use 
 
+User's Comments
+
+Users are permitted to leave comments on the About page or the Teaching Materials page. Mari McCarville may analyze comments for future academic research projects. If she uses the comments, she will anonymize them and redact any identifying information. By leaving a comment, users are agreeing to these conditions. 
+
 Terms and Conditions
 
 All materials on this site are licensed under [CC BY-NY 4.0](https://creativecommons.org/licenses/by-nc/4.0/) unless otherwise noted. 
+
 This means you are free to: 
 
 Share — copy and redistribute the material in any medium or format
@@ -25,7 +30,3 @@ Notice:
 Many of the archival objects are used with permission. Please see rights statements for each object before copying, remixing, transforming, building upon, or redistributing them. 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/d/d3/Cc_by-nc_icon.svg)
-
-User's Comments
-
-Users are permitted to leave comments on the About page or the Teaching Materials page. Mari McCarville may analyze comments for future academic research projects. If she uses the comments, she will anonymize them and redact any identifying information. By leaving a comment, users are agreeing to these conditions. 
