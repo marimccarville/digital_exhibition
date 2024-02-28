@@ -1,6 +1,6 @@
 ---
 title: Terms of Use
-layout: about
+layout: teachingmaterials
 permalink: /termsofuse.html
 ---
 
